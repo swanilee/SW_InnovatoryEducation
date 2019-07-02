@@ -2,7 +2,7 @@
 ( TongmyongUniversity Software Human Resources Academy - Innovative Software Rractice expert process )
 - 혁신적 SW 실무 전문가 과정 ( 2019.6.24 - 8.02 / All 6 weeks )
 
-- 커리큘럼 ( Curriculum ) - 혁신전 SW 전문가 과정
+- 커리큘럼 ( Curriculum ) - 혁신적 SW 전문가 과정
   - 머신러닝 기초와 Pytorch
   - OpenCV를 이용한 영상처리
   - 얼굴인식 및 사물 검출
