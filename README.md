@@ -1,5 +1,6 @@
-# 동명대학교 소프트웨어 인재 사관학교 _혁신적 SW 실무 전문가 과정 ( 2019.6.24 - 8.02 총 6주 동명대학교 )
+# 동명대학교 소프트웨어 인재 사관학교
 # TongmyongUniversity Software Human Resources Academy - Innovative Software Rractice expert process
+- 혁신적 SW 실무 전문가 과정 ( 2019.6.24 - 8.02 / All 6 weeks )
 ---
 - 커리큘럼 ( Curriculum ) - 혁신전 SW 전문가 과정
   - 머신러닝 기초와 Pytorch
