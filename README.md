@@ -1,7 +1,7 @@
 # 동명대학교 소프트웨어 인재 사관학교
 ( TongmyongUniversity Software Human Resources Academy - Innovative Software Rractice expert process )
 - 혁신적 SW 실무 전문가 과정 ( 2019.6.24 - 8.02 / All 6 weeks )
---
+
 - 커리큘럼 ( Curriculum ) - 혁신전 SW 전문가 과정
   - 머신러닝 기초와 Pytorch
   - OpenCV를 이용한 영상처리
@@ -11,4 +11,3 @@
   - 머신러닝을 이용한 Term Project
   
   
---
